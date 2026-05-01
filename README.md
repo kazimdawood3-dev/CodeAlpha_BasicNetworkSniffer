@@ -12,5 +12,5 @@ This is a simple Network Sniffer tool developed during my internship at *CodeAlp
 * Scapy library (pip install scapy)
 
 ## Output Screenshot
-(<img width="673" height="508" alt="Screenshot 2026-04-30 135702" src="https://github.com/user-attachments/assets/cafa364c-1a27-4be1-aeeb-540c85388e2e" />
-)
+("<img width="1030" height="874" alt="Screenshot 2026-05-01 120305" src="https://github.com/user-attachments/assets/8ccafc84-d522-41a9-ba1d-7060b9b2f658" />
+")
