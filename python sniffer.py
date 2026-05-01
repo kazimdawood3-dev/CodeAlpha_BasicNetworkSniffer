@@ -6,7 +6,5 @@ def packet_callback(packet):
         dst_ip = packet["IP"].dst
         proto = packet["IP"].proto
         print(f"Source: {src_ip} | Destination: {dst_ip} | Protocol: {proto}")
-
-# نیٹ ورک ٹریفک کو مانیٹر کرنا شروع کریں
 print("Sniffing started...")
 sniff(prn=packet_callback, store=0)
